@@ -6,7 +6,7 @@ It is also possible to set a goal which is tracked by this application.
 # Main page
 On main page you will find buttons that lead to view or track your transactions,
 view your budget or set your goal. First things you need to do is
-track your transactions and set your goal after you done with these steps, 
+track your transactions and set your goal after you are done with these steps, 
 application will show you the data.
 
 # Tracking transactions
