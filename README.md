@@ -10,7 +10,8 @@ track your transactions and set your goal after you are done with these steps,
 application will show you the data.
 
 # Tracking transactions
-Application uses sql database to track your transactions and your goal.
+Application uses sql database to track your transactions and your goal. 
+SQL browser is required to see the data.
 
 # Requirements
 Additional libraries are required to install.
