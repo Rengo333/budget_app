@@ -11,7 +11,10 @@ application will show you the data.
 
 # Tracking transactions
 Application uses sql database to track your transactions and your goal. 
-SQL browser is required to see the data.
+SQL browser is required to see the data. 
+When adding transactions, use only positive numbers, 
+otherwise it will not be subtracted. Im planning to fix this one.
+Sample database is added here as budgeting.db.
 
 # Requirements
 Additional libraries are required to install.
